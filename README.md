@@ -1,6 +1,6 @@
 # Welcome to La chouette agence 👋
 
-A website has been given to me, my mission was to improve SEO and accessibility
+A website has been given to me, my mission was to improve SEO and accessibility -> WCAG AA
 You can found the original code in branch old
 Remasterized code is in branch master
 
