@@ -1,8 +1,6 @@
-(https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faxeldevisse.github.io%2Fchouette-agence%2Findex.html)
-
 # Welcome to La chouette agence 👋  
 
-![Preview](./img/preview.jpg)
+![Preview](img/preview.JPG)
 
 A website has been given to me, my mission was to improve SEO and accessibility -> WCAG AA  
 You can found the original code in branch old  
