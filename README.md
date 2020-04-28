@@ -1,10 +1,12 @@
-# Welcome to La chouette agence 👋
+https://img.shields.io/w3c-validation/html?targetUrl=https%3A%2F%2Faxeldevisse.github.io%2Fchouette-agence%2Findex.html  
 
-A website has been given to me, my mission was to improve SEO and accessibility -> WCAG AA
-You can found the original code in branch old
-Remasterized code is in branch master
+# Welcome to La chouette agence 👋  
 
-This work is from my computer science school 🏫 https://openclassrooms.com
+A website has been given to me, my mission was to improve SEO and accessibility -> WCAG AA  
+You can found the original code in branch old  
+Remasterized code is in branch master  
+
+This work is from my computer science school 🏫 https://openclassrooms.com  
 Any feedbacks are appreciated
 
 
